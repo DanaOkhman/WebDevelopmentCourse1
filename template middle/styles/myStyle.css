@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Heebo');
+
+#container {
+    height: 960px;
+    font-family: Heebo, sans-serif;
+}
+body {
+    direction: rtl;
+    background-image: url('../jScripts/images/reg 2.jpg');
+
+}
+
+ul{
+    list-style:none;
+}
+
+.manu ul li{
+    display:inline-block;
+    float:right;
+}
+
+.manu ul li a{
+    display:block;
+    background-color:lightgrey;
+    color:whitesmoke;
+    width:150px;
+    height:80px;
+    padding-top:10px;
+    text-decoration:none;
+    text-align:center;
+    font-family:'Amatic SC';
+    font-size:20pt;
+}
+
+    .manu ul li a:hover {
+        background-color: gray;
+        text-shadow: 2px 3px 3px #A8D9FF;
+    }
+
+.manu ul li a:active{
+    background-color:darkslategrey;
+}
+h1{
+    font-size:30pt;
+    margin-right:50px;
+    margin-bottom:10px;
+    margin-top:30px;
+    color:darkslategrey;
+    font-family:'Amatic SC';
+    display:block;        
+}
+
+
+audio{
+    margin-right:50px;
+}
+
+a{
+    margin-right:10px;
+}
+
+#project{
+    margin-right:50px;
+}
+#video{
+    margin-right:50px;
+}
+h2{
+    font-family:'Amatic SC';
+    font-size:25pt;
+    color:darkslategrey;
+    margin-right:50px;
+}
+p{
+    font-size:16pt;
+    margin-top:10px;
+    margin-right:50px;
+    margin-bottom:30px;
+    font-family:Heebo;
+}
+
+#actil{
+    margin-right:50px;
+    margin-top:20px;
+}
+
+#homei{
+    background-color:gray;
+}
+
+#first {
+    background-color: gray;
+}
+
+#second {
+    background-color: gray;
+}
+#third {
+    background-color: gray;
+}
+
+#retouchbe{
+    margin-right:50px;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+
+#retouchaf {
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+
+
+
+
